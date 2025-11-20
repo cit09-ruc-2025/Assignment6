@@ -1,0 +1,13 @@
+.paginationButton {
+  border: 1px solid #c9c9c9;
+  background-color: #ffffff;
+  border-radius: 4px;
+  padding: 4px;
+  cursor: pointer;
+  min-width: 30px;
+  aspect-ratio: 1;
+}
+
+.current {
+  background-color: #f0dbdb;
+}
